@@ -1,0 +1,628 @@
+{
+    "drinks": [
+        {
+            "id": 1,
+            "name": "Манго маракуйя",
+            "weight1": 400,
+            "weight2": 1000,
+            "price1": 350,
+            "price2": 700,
+            "image": "img/drinks/лимонады/манго_маракуйя.png",
+            "category": "img/drinks/заголовки/лимонады.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 2,
+            "name": "Мохито",
+            "weight1": 400,
+            "weight2": 1000,
+            "price1": 350,
+            "price2": 700,
+            "image": "img/drinks/лимонады/мохито.png",
+            "category": "img/drinks/заголовки/лимонады.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 3,
+            "name": "Пина колада",
+            "weight1": 400,
+            "weight2": 1000,
+            "price1": 350,
+            "price2": 700,
+            "image": "img/drinks/лимонады/пина_колада.png",
+            "category": "img/drinks/заголовки/лимонады.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 4,
+            "name": "Цитрусовый",
+            "weight1": 400,
+            "weight2": 1000,
+            "price1": 350,
+            "price2": 700,
+            "image": "img/drinks/лимонады/цитрусовый.png",
+            "category": "img/drinks/заголовки/лимонады.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 5,
+            "name": "Лавандовая Лили",
+            "weight": 300,
+            "price": 450,
+            "image": "img/drinks/коктейли/лавандовая_лили.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 6,
+            "name": "Эспрессо Мартини",
+            "weight": 300,
+            "price": 500,
+            "image": "img/drinks/коктейли/эспрессо_мартини.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 7,
+            "name": "малиновый Мартини",
+            "weight": 300,
+            "price": 500,
+            "image": "img/drinks/коктейли/малиновый_мартини.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 8,
+            "name": "Playboy",
+            "weight": 300,
+            "price": 550,
+            "image": "img/drinks/коктейли/плэй_бой.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 9,
+            "name": "ice cherry spritz",
+            "weight": 300,
+            "price": 600,
+            "image": "img/drinks/коктейли/айс_чери_шприц.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 10,
+            "name": "Полярный медведь",
+            "weight": 400,
+            "price": 600,
+            "image": "img/drinks/коктейли/полярный_медведь.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 11,
+            "name": "OrangePower",
+            "weight": 400,
+            "price": 650,
+            "image": "img/drinks/коктейли/оранджповер.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 12,
+            "name": "Негрони",
+            "weight": 300,
+            "price": 680,
+            "image": "img/drinks/коктейли/негрони.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 13,
+            "name": "Mai tai",
+            "weight": 400,
+            "price": 750,
+            "image": "img/drinks/коктейли/май_тай.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 15,
+            "name": "Клюквенный Лонг Айленд",
+            "weight": 400,
+            "price": 850,
+            "image": "img/drinks/коктейли/лавандовая_лили.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 16,
+            "name": "ягоды",
+            "weight": 400,
+            "price": 450,
+            "image": "img/drinks/смузи/ягоды.png",
+            "category": "img/drinks/заголовки/смузи.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 17,
+            "name": "клубника банан",
+            "weight": 400,
+            "price": 450,
+            "image": "img/drinks/смузи/клубника_банан.png",
+            "category": "img/drinks/заголовки/смузи.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 18,
+            "name": "киви яблоко",
+            "weight": 400,
+            "price": 450,
+            "image": "img/drinks/смузи/киви_яблоко.png",
+            "category": "img/drinks/заголовки/смузи.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 18,
+            "name": "зелЁный смузи",
+            "weight": 400,
+            "price": 450,
+            "image": "img/drinks/смузи/зелёный_смузи.png",
+            "category": "img/drinks/заголовки/смузи.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 19,
+            "name": "Эспрессо",
+            "price": 100,
+            "image": "img/drinks/кофе/эспрессо.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 20,
+            "name": "Американо",
+            "price": 150,
+            "image": "img/drinks/кофе/американо.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 21,
+            "name": "Капучино",
+            "price": 200,
+            "image": "img/drinks/кофе/капучино.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 22,
+            "name": "Латте",
+            "price": 220,
+            "image": "img/drinks/кофе/латте.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 23,
+            "name": "Флэт Вайт",
+            "price": 250,
+            "image": "img/drinks/кофе/флэт_вайт.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 24,
+            "name": "Бамбл",
+            "price": 250,
+            "image": "img/drinks/кофе/бамбл.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 25,
+            "name": "Айс латте",
+            "price": 250,
+            "image": "img/drinks/кофе/айс_латте.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 26,
+            "name": "Фрапучино",
+            "price": 300,
+            "image": "img/drinks/кофе/фрапучино.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 27,
+            "name": "Эспрессо-тоник",
+            "price": 300,
+            "image": "img/drinks/кофе/эспрессо-тоник.png",
+            "category": "img/drinks/заголовки/кофе.svg",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 29,
+            "name": "зеленый",
+            "weight": 1000,
+            "price": 300,
+            "category": "img/drinks/заголовки/чай.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 30,
+            "name": "черный",
+            "weight": 1000,
+            "price": 300,
+            "category": "img/drinks/заголовки/чай.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 31,
+            "name": "черный с бергамотом",
+            "weight": 1000,
+            "price": 300,
+            "category": "img/drinks/заголовки/чай.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 32,
+            "name": "черный с апельсином",
+            "weight": 1000,
+            "price": 300,
+            "category": "img/drinks/заголовки/чай.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 33,
+            "name": "смородина-базилик",
+            "weight": 1000,
+            "price": 500,
+            "image": "img/drinks/авторский/смородина-базилик.png",
+            "category": "img/drinks/заголовки/авторский.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 34,
+            "name": "Цитрусовый",
+            "weight": 1000,
+            "price": 500,
+            "image": "img/drinks/авторский/цитрусовый.png",
+            "category": "img/drinks/заголовки/авторский.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 35,
+            "name": "ИмбирныЙ",
+            "weight": 1000,
+            "price": 500,
+            "image": "img/drinks/авторский/имбирный.png",
+            "category": "img/drinks/заголовки/авторский.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 36,
+            "name": "Облепиховый",
+            "weight": 1000,
+            "price": 500,
+            "image": "img/drinks/авторский/облепиховый.png",
+            "category": "img/drinks/заголовки/авторский.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 37,
+            "name": "Вода",
+            "weight": 500,
+            "price": 150,
+            "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 38,
+            "name": "фанта",
+            "weight": 330,
+            "price": 220,
+            "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 39,
+            "name": "спрайт",
+            "weight": 330,
+            "price": 220,
+            "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 40,
+            "name": "кола",
+            "weight": 330,
+            "price": 220,
+            "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 41,
+            "name": "Кола(zero)",
+            "weight": 330,
+            "price": 220,
+            "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 42,
+            "name": "red bull",
+            "weight": 250,
+            "price": 280,
+            "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 43,
+            "name": "red bull",
+            "weight": 330,
+            "price": 400,
+            "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 44,
+            "name": "сок",
+            "weight1": 200,
+            "weight2": 330,
+            "price1": 220,
+            "price2": 220,
+            "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 45,
+            "name": "Стелла Артуа",
+            "weight": 500,
+            "price": 250,
+            "category": "img/drinks/заголовки/пиво.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 46,
+            "name": "Bud",
+            "weight": 750,
+            "price": 300,
+            "category": "img/drinks/заголовки/пиво.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 47,
+            "name": "Corona extra",
+            "weight": 330,
+            "price": 350,
+            "category": "img/drinks/заголовки/пиво.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 48,
+            "name": "Barrister",
+            "weight": 40,
+            "price": 200,
+            "category": "img/drinks/заголовки/джин.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 49,
+            "name": "Beefeater",
+            "weight": 40,
+            "price": 400,
+            "category": "img/drinks/заголовки/джин.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 50,
+            "name": "Olmeca(gold)",
+            "weight": 40,
+            "price": 400,
+            "category": "img/drinks/заголовки/текила.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 51,
+            "name": "Olmeca(silver)",
+            "weight": 40,
+            "price": 500,
+            "category": "img/drinks/заголовки/текила.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 52,
+            "name": "Царская (оригинальная)",
+            "weight": 40,
+            "price": 150,
+            "category": "img/drinks/заголовки/водка.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 53,
+            "name": "Царская (золотая)",
+            "weight": 40,
+            "price": 170,
+            "category": "img/drinks/заголовки/водка.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 54,
+            "name": "Белуга",
+            "weight": 40,
+            "price": 300,
+            "category": "img/drinks/заголовки/водка.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 55,
+            "name": "Чистые Росы",
+            "weight": 40,
+            "price": 330,
+            "category": "img/drinks/заголовки/водка.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 56,
+            "name": "Абрау-Дюрсо бел. п/сл",
+            "price": 1500,
+            "category": "img/drinks/заголовки/шампанское.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 57,
+            "name": "Абрау-Дюрсо бел. п/сух",
+            "price": 1500,
+            "category": "img/drinks/заголовки/шампанское.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 58,
+            "name": "Абрау-Дюрсо брют",
+            "price": 1500,
+            "category": "img/drinks/заголовки/шампанское.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 59,
+            "name": "Лев Голицынъ Бел. п/сл",
+            "price": 1500,
+            "category": "img/drinks/заголовки/шампанское.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 60,
+            "name": "Лев Голицынъ Бел. п/сух",
+            "price": 1500,
+            "category": "img/drinks/заголовки/шампанское.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 61,
+            "name": "Лев Голицынъ Брют",
+            "price": 1500,
+            "category": "img/drinks/заголовки/шампанское.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 62,
+            "name": "Trоzo красное сухое ",
+            "weight1": 150,
+            "weight2": 750,
+            "price1": 250,
+            "price2": 1250,
+            "category": "img/drinks/заголовки/вино.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 63,
+            "name": "Trоzo красное полусладкое",
+            "weight1": 150,
+            "weight2": 750,
+            "price1": 250,
+            "price2": 1250,
+            "category": "img/drinks/заголовки/вино.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 64,
+            "name": "Trоzo белое сухое",
+            "weight1": 150,
+            "weight2": 750,
+            "price1": 250,
+            "price2": 1250,
+            "category": "img/drinks/заголовки/вино.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 65,
+            "name": "Цинандали белое сухое",
+            "weight1": 150,
+            "weight2": 750,
+            "price1": 400,
+            "price2": 2000,
+            "category": "img/drinks/заголовки/вино.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 66,
+            "name": "Саперави красное сухое",
+            "weight1": 150,
+            "weight2": 500,
+            "price1": 400,
+            "price2": 2000,
+            "category": "img/drinks/заголовки/вино.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 66,
+            "name": "Алазанская Долина красное полусладкое",
+            "weight1": 150,
+            "weight2": 500,
+            "price1": 400,
+            "price2": 2000,
+            "category": "img/drinks/заголовки/вино.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 67,
+            "name": "Старый Кахети (***)",
+            "weight": 40,
+            "price": 250,
+            "category": "img/drinks/заголовки/коньяк.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 68,
+            "name": "Арарат (***)",
+            "weight": 40,
+            "price": 400,
+            "category": "img/drinks/заголовки/коньяк.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 69,
+            "name": "Арарат (*****)",
+            "weight": 40,
+            "price": 450,
+            "category": "img/drinks/заголовки/коньяк.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 70,
+            "name": "Хенеси",
+            "weight": 40,
+            "price": 700,
+            "category": "img/drinks/заголовки/коньяк.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 71,
+            "name": "Jameson",
+            "weight": 40,
+            "price": 450,
+            "category": "img/drinks/заголовки/виски.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 72,
+            "name": "chivas",
+            "weight": 40,
+            "price": 550,
+            "category": "img/drinks/заголовки/виски.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 73,
+            "name": "monkey shoulder",
+            "weight": 40,
+            "price": 550,
+            "category": "img/drinks/заголовки/виски.svg",
+            "layout": "no_description"
+        }
+
+    ]
+
+}
