@@ -24,15 +24,6 @@
         },
         {
             "id": 3,
-            "name": "Пина колада",
-            "weight": 400,
-            "price": 350,
-            "image": "img/drinks/лимонады/пина_колада.png",
-            "category": "img/drinks/заголовки/лимонады.svg",
-            "layout": "no_description"
-        },
-        {
-            "id": 4,
             "name": "Цитрусовый",
             "weight1": 400,
             "weight2": 1000,
@@ -41,6 +32,15 @@
             "image": "img/drinks/лимонады/цитрусовый.png",
             "category": "img/drinks/заголовки/лимонады.svg",
             "layout": "two_weight_and_price"
+        },
+        {
+            "id": 4,
+            "name": "Пина колада",
+            "weight": 400,
+            "price": 350,
+            "image": "img/drinks/лимонады/пина_колада.png",
+            "category": "img/drinks/заголовки/лимонады.svg",
+            "layout": "no_description"
         },
         {
             "id": 5,
