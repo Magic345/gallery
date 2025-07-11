@@ -379,7 +379,7 @@
         {
             "id": 46,
             "name": "Bud",
-            "weight": 750,
+            "weight": 450,
             "price": 300,
             "category": "img/drinks/заголовки/пиво.svg",
             "layout": "no_description"
