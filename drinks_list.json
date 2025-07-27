@@ -43,6 +43,36 @@
             "layout": "no_description"
         },
         {
+            "id": 4,
+            "name": "Ягодный",
+            "weight1": 400,
+            "weight2": 1000,
+            "price1": 350,
+            "price2": 700,
+            "image": "img/drinks/лимонады/ягодный.png",
+            "category": "img/drinks/заголовки/лимонады.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 4,
+            "name": "огуречный",
+            "weight1": 400,
+            "weight2": 1000,
+            "price1": 350,
+            "price2": 700,
+            "image": "img/drinks/лимонады/огуречный.png",
+            "category": "img/drinks/заголовки/лимонады.svg",
+            "layout": "two_weight_and_price"
+        },
+        {
+            "id": 5,
+            "name": "не Беллини",
+            "weight": 150,
+            "price": 400,
+            "image": "img/drinks/коктейли/не_беллини.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },        {
             "id": 5,
             "name": "Лавандовая Лили",
             "weight": 300,
@@ -274,6 +304,14 @@
         },
         {
             "id": 33,
+            "name": "ДИКАЯ ВИШНЯ",
+            "weight": 1000,
+            "price": 300,
+            "category": "img/drinks/заголовки/чай.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 34,
             "name": "смородина-базилик",
             "weight": 1000,
             "price": 500,
@@ -282,7 +320,7 @@
             "layout": "no_description"
         },
         {
-            "id": 34,
+            "id": 35,
             "name": "Цитрусовый",
             "weight": 1000,
             "price": 500,
@@ -291,7 +329,7 @@
             "layout": "no_description"
         },
         {
-            "id": 35,
+            "id": 36,
             "name": "ИмбирныЙ",
             "weight": 1000,
             "price": 500,
@@ -300,7 +338,7 @@
             "layout": "no_description"
         },
         {
-            "id": 36,
+            "id": 37,
             "name": "Облепиховый",
             "weight": 1000,
             "price": 500,
@@ -309,7 +347,7 @@
             "layout": "no_description"
         },
         {
-            "id": 37,
+            "id": 38,
             "name": "Вода",
             "weight": 500,
             "price": 150,
@@ -317,7 +355,7 @@
             "layout": "no_description"
         },
         {
-            "id": 38,
+            "id": 39,
             "name": "фанта",
             "weight": 330,
             "price": 220,
@@ -325,7 +363,7 @@
             "layout": "no_description"
         },
         {
-            "id": 39,
+            "id": 40,
             "name": "спрайт",
             "weight": 330,
             "price": 220,
@@ -333,7 +371,7 @@
             "layout": "no_description"
         },
         {
-            "id": 40,
+            "id": 41,
             "name": "кола",
             "weight": 330,
             "price": 220,
@@ -341,7 +379,7 @@
             "layout": "no_description"
         },
         {
-            "id": 41,
+            "id": 42,
             "name": "Кола(zero)",
             "weight": 330,
             "price": 220,
@@ -349,7 +387,7 @@
             "layout": "no_description"
         },
         {
-            "id": 42,
+            "id": 43,
             "name": "red bull",
             "weight": 250,
             "price": 280,

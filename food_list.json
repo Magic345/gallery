@@ -35,7 +35,7 @@
             "id": 4,
             "name": "Фруктовая тарелка",
             "description": "По сезону, уточнять у официантов",
-            "weight": 400,
+            "weight": 800,
             "price": 1300,
             "image": "./img/food/закуски/фрукт тарел.png",
             "category": "img/food/заголовки/закуски.png",
@@ -117,7 +117,7 @@
             "description": "Помидор, огурец, перец болгарский, лук красный, оливковое масло, специи",
             "weight": 350,
             "price": 500,
-            "image": "./img/food/салаты/цезарь.png",
+            "image": "./img/food/салаты/овощной_салат_с_сыром.png",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description"
         },        
@@ -203,6 +203,15 @@
             "weight": 200,
             "price": 300,
             "image": "./img/food/десерты/мороженное.png",
+            "category": "img/food/заголовки/десерты.png",
+            "layout": "no_description"
+        },
+        {
+            "id": 23,
+            "name": "Сан-Себастьян",
+            "weight": 200,
+            "price": 450,
+            "image": "./img/food/десерты/сан_себастьян.png",
             "category": "img/food/заголовки/десерты.png",
             "layout": "no_description"
         }
