@@ -398,9 +398,9 @@
             "id": 44,
             "name": "сок (в ассортименте)",
             "weight1": 200,
-            "weight2": 330,
+            "weight2": 1000,
             "price1": 220,
-            "price2": 220,
+            "price2": 450,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "two_weight_and_price"
         },
