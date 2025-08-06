@@ -154,11 +154,12 @@
         {
             "id": 13,
             "name": "бургер",
+            "description": "Говяжья котлета, сыр чедер, лист салата, лук карамелизованный, помидор, фирменный соус, картошка фри и соус",
             "weight": 540,
             "price": 700,
             "image": "./img/food/фритюр/бургер.png",
             "category": "img/food/заголовки/фритюр.png",
-            "layout": "no_description"
+            "layout": "description"
         },    
         {
             "id": 13,
@@ -199,7 +200,7 @@
                 {
             "id": 16,
             "name": "крылья баффало",
-            "weight": 200,
+            "weight": 300,
             "price": 500,
             "image": "./img/food/фритюр/крылья_баффало.png",
             "category": "img/food/заголовки/фритюр.png",
@@ -208,7 +209,7 @@
         {
             "id": 16,
             "name": "гренки",
-            "weight": 150,
+            "weight": 200,
             "price": 200,
             "image": "./img/food/фритюр/гренки.png",
             "category": "img/food/заголовки/фритюр.png",
