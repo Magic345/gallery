@@ -274,7 +274,7 @@
             "id": 29,
             "name": "зеленый",
             "weight": 1000,
-            "price": 50,
+            "price": 300,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -282,7 +282,7 @@
             "id": 30,
             "name": "черный",
             "weight": 1000,
-            "price": 50,
+            "price": 300,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -290,7 +290,7 @@
             "id": 31,
             "name": "черный с бергамотом",
             "weight": 1000,
-            "price": 50,
+            "price": 300,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -298,7 +298,7 @@
             "id": 32,
             "name": "черный с апельсином",
             "weight": 1000,
-            "price": 50,
+            "price": 300,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -306,7 +306,7 @@
             "id": 33,
             "name": "ДИКАЯ ВИШНЯ",
             "weight": 1000,
-            "price": 50,
+            "price": 300,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -314,7 +314,7 @@
             "id": 34,
             "name": "смородина-базилик",
             "weight": 1000,
-            "price": 50,
+            "price": 500,
             "image": "img/drinks/авторский/смородина-базилик.png",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description"
@@ -323,7 +323,7 @@
             "id": 35,
             "name": "Цитрусовый",
             "weight": 1000,
-            "price": 50,
+            "price": 500,
             "image": "img/drinks/авторский/цитрусовый.png",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description"
@@ -332,7 +332,7 @@
             "id": 36,
             "name": "ИмбирныЙ",
             "weight": 1000,
-            "price": 50,
+            "price": 500,
             "image": "img/drinks/авторский/имбирный.png",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description"
@@ -341,7 +341,7 @@
             "id": 37,
             "name": "Облепиховый",
             "weight": 1000,
-            "price": 50,
+            "price": 500,
             "image": "img/drinks/авторский/облепиховый.png",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description"
