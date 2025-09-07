@@ -255,14 +255,6 @@
             "layout": "title_and_price"
         },
         {
-            "id": 26,
-            "name": "Фрапучино",
-            "price": 300,
-            "image": "img/drinks/кофе/фрапучино.png",
-            "category": "img/drinks/заголовки/кофе.svg",
-            "layout": "title_and_price"
-        },
-        {
             "id": 27,
             "name": "Эспрессо-тоник",
             "price": 300,
@@ -539,8 +531,8 @@
             "name": "Trоzo красное сухое ",
             "weight1": 150,
             "weight2": 750,
-            "price1": 250,
-            "price2": 1250,
+            "price1": 300,
+            "price2": 1500,
             "category": "img/drinks/заголовки/вино.svg",
             "layout": "two_weight_and_price"
         },
@@ -549,8 +541,8 @@
             "name": "Trоzo красное полусладкое",
             "weight1": 150,
             "weight2": 750,
-            "price1": 250,
-            "price2": 1250,
+            "price1": 300,
+            "price2": 1500,
             "category": "img/drinks/заголовки/вино.svg",
             "layout": "two_weight_and_price"
         },
@@ -559,12 +551,21 @@
             "name": "Trоzo белое сухое",
             "weight1": 150,
             "weight2": 750,
-            "price1": 250,
-            "price2": 1250,
+            "price1": 300,
+            "price2": 1500,
             "category": "img/drinks/заголовки/вино.svg",
             "layout": "two_weight_and_price"
         },
         {
+            "id": 64,
+            "name": "Trоzo белое полусладкое",
+            "weight1": 150,
+            "weight2": 750,
+            "price1": 300,
+            "price2": 1500,
+            "category": "img/drinks/заголовки/вино.svg",
+            "layout": "two_weight_and_price"
+        },        {
             "id": 65,
             "name": "Цинандали белое сухое",
             "weight1": 150,
