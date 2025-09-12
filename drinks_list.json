@@ -76,7 +76,7 @@
             "id": 5,
             "name": "Лавандовая Лили",
             "weight": 300,
-            "price": 450,
+            "price": 500,
             "image": "img/drinks/коктейли/лавандовая_лили.png",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description"
@@ -94,7 +94,7 @@
             "id": 7,
             "name": "малиновый Мартини",
             "weight": 300,
-            "price": 500,
+            "price": 550,
             "image": "img/drinks/коктейли/малиновый_мартини.png",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description"
@@ -112,7 +112,7 @@
             "id": 9,
             "name": "ice cherry spritz",
             "weight": 300,
-            "price": 600,
+            "price": 650,
             "image": "img/drinks/коктейли/айс_чери_шприц.png",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description"
@@ -139,7 +139,7 @@
             "id": 12,
             "name": "Негрони",
             "weight": 300,
-            "price": 680,
+            "price": 700,
             "image": "img/drinks/коктейли/негрони.png",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description"
@@ -201,7 +201,7 @@
         {
             "id": 19,
             "name": "Эспрессо",
-            "price": 100,
+            "price": 150,
             "image": "img/drinks/кофе/эспрессо.png",
             "category": "img/drinks/заголовки/кофе.svg",
             "layout": "title_and_price"
@@ -209,7 +209,7 @@
         {
             "id": 20,
             "name": "Американо",
-            "price": 150,
+            "price": 200,
             "image": "img/drinks/кофе/американо.png",
             "category": "img/drinks/заголовки/кофе.svg",
             "layout": "title_and_price"
@@ -217,7 +217,7 @@
         {
             "id": 21,
             "name": "Капучино",
-            "price": 200,
+            "price": 250,
             "image": "img/drinks/кофе/капучино.png",
             "category": "img/drinks/заголовки/кофе.svg",
             "layout": "title_and_price"
@@ -225,7 +225,7 @@
         {
             "id": 22,
             "name": "Латте",
-            "price": 220,
+            "price": 270,
             "image": "img/drinks/кофе/латте.png",
             "category": "img/drinks/заголовки/кофе.svg",
             "layout": "title_and_price"
@@ -241,7 +241,7 @@
         {
             "id": 24,
             "name": "Бамбл",
-            "price": 250,
+            "price": 300,
             "image": "img/drinks/кофе/бамбл.png",
             "category": "img/drinks/заголовки/кофе.svg",
             "layout": "title_and_price"
@@ -249,7 +249,7 @@
         {
             "id": 25,
             "name": "Айс латте",
-            "price": 250,
+            "price": 300,
             "image": "img/drinks/кофе/айс_латте.png",
             "category": "img/drinks/заголовки/кофе.svg",
             "layout": "title_and_price"
@@ -266,7 +266,7 @@
             "id": 29,
             "name": "зеленый",
             "weight": 1000,
-            "price": 350,
+            "price": 400,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -274,7 +274,7 @@
             "id": 30,
             "name": "черный",
             "weight": 1000,
-            "price": 350,
+            "price": 400,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -282,7 +282,7 @@
             "id": 31,
             "name": "черный с бергамотом",
             "weight": 1000,
-            "price": 350,
+            "price": 400,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -290,7 +290,7 @@
             "id": 32,
             "name": "черный с апельсином",
             "weight": 1000,
-            "price": 350,
+            "price": 400,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -298,7 +298,15 @@
             "id": 33,
             "name": "ДИКАЯ ВИШНЯ",
             "weight": 1000,
-            "price": 350,
+            "price": 400,
+            "category": "img/drinks/заголовки/чай.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 33,
+            "name": "горный",
+            "weight": 1000,
+            "price": 400,
             "category": "img/drinks/заголовки/чай.svg",
             "layout": "no_description"
         },
@@ -322,7 +330,7 @@
         },
         {
             "id": 36,
-            "name": "ИмбирныЙ",
+            "name": "витаминный",
             "weight": 1000,
             "price": 550,
             "image": "img/drinks/авторский/имбирный.png",
@@ -335,6 +343,15 @@
             "weight": 1000,
             "price": 550,
             "image": "img/drinks/авторский/облепиховый.png",
+            "category": "img/drinks/заголовки/авторский.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 34,
+            "name": "малиновый",
+            "weight": 1000,
+            "price": 550,
+            "image": "img/drinks/авторский/смородина-базилик.png",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description"
         },
@@ -382,7 +399,7 @@
             "id": 43,
             "name": "red bull",
             "weight": 250,
-            "price": 280,
+            "price": 300,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description"
         },
@@ -416,7 +433,7 @@
             "id": 47,
             "name": "Corona extra",
             "weight": 330,
-            "price": 350,
+            "price": 400,
             "category": "img/drinks/заголовки/пиво.svg",
             "layout": "no_description"
         },
@@ -621,6 +638,14 @@
         },
         {
             "id": 70,
+            "name": "Jack Daniel's",
+            "weight": 40,
+            "price": 550,
+            "category": "img/drinks/заголовки/коньяк.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 70,
             "name": "Хенеси",
             "weight": 40,
             "price": 700,
@@ -631,7 +656,7 @@
             "id": 71,
             "name": "Jameson",
             "weight": 40,
-            "price": 450,
+            "price": 500,
             "category": "img/drinks/заголовки/виски.svg",
             "layout": "no_description"
         },
@@ -639,7 +664,7 @@
             "id": 72,
             "name": "chivas",
             "weight": 40,
-            "price": 550,
+            "price": 600,
             "category": "img/drinks/заголовки/виски.svg",
             "layout": "no_description"
         },
@@ -647,7 +672,7 @@
             "id": 73,
             "name": "monkey shoulder",
             "weight": 40,
-            "price": 550,
+            "price": 600,
             "category": "img/drinks/заголовки/виски.svg",
             "layout": "no_description"
         }
