@@ -125,6 +125,19 @@
                         break;
 
                         case "no_description":
+                            
+                            if (dish.image) {
+                                imageHtml = `<img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">`;
+                                width_block = 305;
+                                margin_bottom = 7;
+                            }
+                            else {
+                                imageHtml = `<div class="empty-image-placeholder" style="margin-top: 28px;"></div>`;
+                                width_block = 350;
+                                margin_bottom = 25;
+                            }
+
+                            
                             menuContainer.innerHTML += `
                                 <div style="margin-bottom: 27px;">
                                     <div class="row justify-content-center">

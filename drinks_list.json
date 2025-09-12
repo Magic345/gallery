@@ -638,14 +638,6 @@
         },
         {
             "id": 70,
-            "name": "Jack Daniel's",
-            "weight": 40,
-            "price": 550,
-            "category": "img/drinks/заголовки/коньяк.svg",
-            "layout": "no_description"
-        },
-        {
-            "id": 70,
             "name": "Хенеси",
             "weight": 40,
             "price": 700,
@@ -673,6 +665,14 @@
             "name": "monkey shoulder",
             "weight": 40,
             "price": 600,
+            "category": "img/drinks/заголовки/виски.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 70,
+            "name": "Jack Daniel's",
+            "weight": 40,
+            "price": 550,
             "category": "img/drinks/заголовки/виски.svg",
             "layout": "no_description"
         }
