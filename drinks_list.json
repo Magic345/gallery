@@ -66,27 +66,10 @@
         },
         {
             "id": 5,
-            "name": "не Беллини",
-            "weight": 150,
-            "price": 400,
-            "image": "img/drinks/коктейли/не_беллини.png",
-            "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "no_description"
-        },        {
-            "id": 5,
             "name": "Лавандовая Лили",
             "weight": 300,
             "price": 500,
             "image": "img/drinks/коктейли/лавандовая_лили.png",
-            "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "no_description"
-        },
-        {
-            "id": 6,
-            "name": "Эспрессо Мартини",
-            "weight": 300,
-            "price": 500,
-            "image": "img/drinks/коктейли/эспрессо_мартини.png",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description"
         },
@@ -159,6 +142,52 @@
             "weight": 400,
             "price": 850,
             "image": "img/drinks/коктейли/клюквенный_лонг_айленд.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 15,
+            "name": "Мохито с ромом классический/клубничный",
+            "weight": 400,
+            "price": 600,
+            "image": "img/drinks/лимонады/мохито.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+
+        {
+            "id": 15,
+            "name": "Зеленая фея",
+            "weight": 400,
+            "price": 750,
+            "image": "img/drinks/коктейли/Зеленая_фея.PNG",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 15,
+            "name": "Pornstar Martini",
+            "weight": 400,
+            "price": 650,
+            "image": "img/drinks/коктейли/Pornstar_Martini.PNG",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 15,
+            "name": "Киви-ром",
+            "weight": 400,
+            "price": 550,
+            "image": "img/drinks/коктейли/Киви_ром.JPG",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description"
+        },
+        {
+            "id": 15,
+            "name": "Джин-тоник",
+            "weight": 400,
+            "price": 500,
+            "image": "img/drinks/коктейли/Джин_тоник.PNG",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description"
         },
