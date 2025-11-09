@@ -191,6 +191,48 @@
             "layout": "no_description"
         },
         {
+            "id": 15,
+            "name": "Б-52",
+            "price": 500,
+            "category": "img/drinks/заголовки/шоты.png",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 15,
+            "name": "Б-53",
+            "price": 500,
+            "category": "img/drinks/заголовки/шоты.png",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 15,
+            "name": "медуза",
+            "price": 500,
+            "category": "img/drinks/заголовки/шоты.png",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 15,
+            "name": "Зеленый мексиканец",
+            "price": 500,
+            "category": "img/drinks/заголовки/шоты.png",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 15,
+            "name": "Дядя ваня",
+            "price": 500,
+            "category": "img/drinks/заголовки/шоты.png",
+            "layout": "title_and_price"
+        },
+        {
+            "id": 15,
+            "name": "самбука",
+            "price": 500,
+            "category": "img/drinks/заголовки/шоты.png",
+            "layout": "title_and_price"
+        },
+        {
             "id": 16,
             "name": "ягоды",
             "weight": 400,
