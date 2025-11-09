@@ -71,7 +71,8 @@
             "price": 750,
             "image": "img/drinks/коктейли/Зеленая_фея.PNG",
             "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "no_description"
+            "layout": "no_description",
+            "isNew": true
         },
         {
             "id": 15,
@@ -80,7 +81,8 @@
             "price": 650,
             "image": "img/drinks/коктейли/Pornstar_Martini.PNG",
             "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "no_description"
+            "layout": "no_description",
+            "isNew": true
         },
         {
             "id": 15,
@@ -89,7 +91,8 @@
             "price": 550,
             "image": "img/drinks/коктейли/Киви_ром.JPG",
             "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "no_description"
+            "layout": "no_description",
+            "isNew": true
         },
         {
             "id": 15,
@@ -98,7 +101,8 @@
             "price": 500,
             "image": "img/drinks/коктейли/Джин_тоник.PNG",
             "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "no_description"
+            "layout": "no_description",
+            "isNew": true
         },
         {
             "id": 5,
@@ -188,7 +192,8 @@
             "price": 600,
             "image": "img/drinks/лимонады/мохито.png",
             "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "no_description"
+            "layout": "no_description",
+            "isNew": true
         },
         {
             "id": 15,
