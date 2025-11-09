@@ -227,6 +227,16 @@
                         break;
                         
                         case "title_and_price":
+
+                            if (dish.image) {
+                                imageHtml = `<img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">`;
+                                width_block = 305;
+                            }
+                            else {
+                                imageHtml = `<div class="empty-image-placeholder" style="margin-top: 11px;"></div>`;
+                                width_block = 350;
+                            }
+
                             menuContainer.innerHTML += `
                                 <div style="margin-bottom: 27px;">
                                     <div class="row justify-content-center">
@@ -237,7 +247,7 @@
                                                 <div class="blok-menu">
                                                     <div class="menu-foter">
                                                         <div class="menu-title" style="padding-bottom: 0 !important;">
-                                                            <h3>${dish.name}</h3>
+                                                            ${imageHtml}
                                                         </div>
                                                         <span class="cost">${dish.price} ₽</span>
                                                     </div>
@@ -249,6 +259,8 @@
 
                                 </div>                            
                             `;
+                            imageHtml = "";
+                            width_block = 0;
                         break;
 
 
