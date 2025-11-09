@@ -438,9 +438,9 @@
         },
         {
             "id": 38,
-            "name": "Вода",
+            "name": "боржоми",
             "weight": 500,
-            "price": 150,
+            "price": 250,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description",
             "isNew": true
