@@ -36,7 +36,8 @@
             "weight": 80,
             "price": 400,
             "category": "img/food/заголовки/закуски.png",
-            "layout": "no_description"
+            "layout": "no_description",
+            "isNew": true
         },
         {
             "id": 2,
