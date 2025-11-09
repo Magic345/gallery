@@ -96,11 +96,21 @@
 
                     switch(dish.layout){
                         case "description":
+
+                            if (dish.isNew) {
+                                newBadgeHtml = `<img src="./img/new.png" class="new-badge" alt="Новое">`;
+                            }       
+                            else{
+                                newBadgeHtml = `<div style="margin: 0; padding: 0;"></div>`
+                            }
+
+
                             menuContainer.innerHTML += `
                                 <div>
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 col-lg-6">
                                             <div class="position-relative">
+                                                ${newBadgeHtml}
                                                 <img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">
                 
                                                 <div class="blok-menu">
@@ -125,7 +135,12 @@
                         break;
 
                         case "no_description":
-                            
+                            if (dish.isNew) {
+                                newBadgeHtml = `<img src="./img/new.png" style="top: -10px" class="new-badge" alt="Новое">`;
+                            }       
+                            else{
+                                newBadgeHtml = `<div style="margin: 0; padding: 0;"></div>`
+                            }
                             if (dish.image) {
                                 imageHtml = `<img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">`;
                                 width_block = 305;
@@ -143,6 +158,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 col-lg-6">
                                             <div class="position-relative">
+                                                ${newBadgeHtml}
                                                 ${imageHtml}
                                                 
                                                 <div class="blok-menu">

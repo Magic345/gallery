@@ -22,8 +22,9 @@ section[id], div[id] {
     overflow-x: auto;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch; /* Плавный скролл на iOS */
-    padding-bottom: 10px; /* Чтобы скроллбар не перекрывал кнопки */
-
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
 }
 .scrollable-buttons::-webkit-scrollbar {
     height: 0%;
@@ -40,8 +41,9 @@ section[id], div[id] {
 }
 
 .menu-button {
+    position: relative;
     flex: 0 0 auto;
-    margin-right: 22px; 
+    margin-right: 22px;
     max-width: 140px;
     height: 35px;
     color: #FFD400;
@@ -97,8 +99,6 @@ section[id], div[id] {
 
 }
 
-
-
 .menu-title{
     max-width: 256px;
     max-height: 100px;
@@ -151,5 +151,15 @@ section[id], div[id] {
 .position-relative {
     display: flex;
     flex-direction: column;
+}
+
+.new-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50px;
+    height: auto;
+    z-index: 10;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 

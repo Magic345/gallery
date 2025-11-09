@@ -29,14 +29,17 @@
 
 
             <div class="nav-divider w-100"></div>
-                <div class="scrollable-buttons">
+                <div class="scrollable-buttons" >
                     <a href="#лимонады" class="menu-button active">
                         <small>лимонады</small>
                     </a>
                     <a href="#коктейли" class="menu-button">
                         <small>коктейли</small>
                     </a>
+                    
                     <a href="#шоты" class="menu-button">
+                        <img src="./img/new.png" style="width: 30px; top:-10px" class="new-badge" alt="Новое">
+                        
                         <small>шоты</small>
                     </a>
                     <a href="#смузи" class="menu-button">
@@ -127,12 +130,21 @@
                             </div>
                         `;
                     }
+                    
+                    // Проверяем, является ли блюдо новым
+                    if (dish.isNew) {
+                        newBadgeHtml = `<img src="./img/new.png" class="new-badge" alt="Новое">`;
+                    }
+                    else{
+                        newBadgeHtml = `<div style="margin: 0; padding: 0;"></div>`
+                    }
+
                     let width_block;
                     let imageHtml;
                     switch(dish.layout){
                         case "two_weight_and_price":
                             
-                            
+
 
                             if (dish.image) {
                                 imageHtml = `<img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">`;
@@ -146,12 +158,13 @@
                             }
 
 
+
                             menuContainer.innerHTML += `
                                 <div style="margin-bottom: ${margin_bottom}px">
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 col-lg-6">
                                             <div class="position-relative">
-                            
+                                                ${newBadgeHtml}
                                                 ${imageHtml}
                                                 <div class="blok-menu" style="width: ${width_block}px;">
                                                     <div class="menu-title">
@@ -179,6 +192,8 @@
                         break;
 
                         case "no_description":
+
+                                        
                             const isWeight = dish.weight
                                 ? `
                                     <div class="menu-foter">
@@ -192,7 +207,7 @@
                                         <span class="cost">${dish.price} ₽</span>
                                     </div>
                                 `;
-
+                                
                             if (dish.image) {
                                 imageHtml = `<img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">`;
                                 width_block = 305;
@@ -207,6 +222,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 col-lg-6">
                                             <div class="position-relative">
+                                                ${newBadgeHtml}
                                                 ${imageHtml}
                 
                                                 <div class="blok-menu" style="width: ${width_block}px;">
@@ -227,7 +243,15 @@
                         break;
                         
                         case "title_and_price":
-
+                            // Проверяем, является ли блюдо новым
+                            if (dish.isNew) {
+                                newBadgeHtml = `<img src="./img/new.png" class="new-badge" alt="Новое"><div style="margin-top: 23px"></div>`;
+                                
+                            }
+                            else{
+                                newBadgeHtml = `<div style="margin: 0; padding: 0;"></div>`
+                            }
+                            
                             if (dish.image) {
                                 imageHtml = `<img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">`;
                                 width_block = 305;
@@ -242,6 +266,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 col-lg-6">
                                             <div class="position-relative" >
+                                                ${newBadgeHtml}
                                                 ${imageHtml}
                                                 <div class="blok-menu">
                                                     <div class="menu-foter">
