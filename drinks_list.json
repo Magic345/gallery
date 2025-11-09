@@ -442,6 +442,15 @@
             "weight": 500,
             "price": 150,
             "category": "img/drinks/заголовки/напитки.svg",
+            "layout": "no_description",
+            "isNew": true
+        },
+        {
+            "id": 38,
+            "name": "Вода",
+            "weight": 500,
+            "price": 150,
+            "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description"
         },
         {
