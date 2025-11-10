@@ -188,12 +188,7 @@
                         case "no_description":
 
                             // Проверяем, является ли блюдо новым
-                            if (dish.isNew) {
-                                newBadgeHtml = `<img src="./img/new.png" style="top:-25px; left: -4px;" class="new-badge" alt="Новое">`;
-                            }
-                            else{
-                                newBadgeHtml = `<div style="margin: 0; padding: 0;"></div>`
-                            }             
+            
                             const isWeight = dish.weight
                                 ? `
                                     <div class="menu-foter">
@@ -211,10 +206,24 @@
                             if (dish.image) {
                                 imageHtml = `<img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">`;
                                 width_block = 305;
+
+                                if (dish.isNew) {
+                                    newBadgeHtml = `<img src="./img/new.png" class="new-badge" alt="Новое">`;
+                                }
+                                else{
+                                    newBadgeHtml = `<div style="margin: 0; padding: 0;"></div>`
+                                } 
                             }
                             else {
                                 imageHtml = `<div class="empty-image-placeholder" style="margin-top: 11px;"></div>`;
                                 width_block = 350;
+
+                                if (dish.isNew) {
+                                    newBadgeHtml = `<img src="./img/new.png" style="top:-25px; left: -4px;" class="new-badge" alt="Новое">`;
+                                }
+                                else{
+                                    newBadgeHtml = `<div style="margin: 0; padding: 0;"></div>`
+                                } 
                             }
                             
                             menuContainer.innerHTML += `
