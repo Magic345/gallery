@@ -478,14 +478,6 @@
             "layout": "no_description"
         },
         {
-            "id": 42,
-            "name": "Кола(zero)",
-            "weight": 330,
-            "price": 220,
-            "category": "img/drinks/заголовки/напитки.svg",
-            "layout": "no_description"
-        },
-        {
             "id": 43,
             "name": "red bull",
             "weight": 250,
