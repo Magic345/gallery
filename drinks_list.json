@@ -105,6 +105,16 @@
             "isNew": true
         },
         {
+            "id": 15,
+            "name": "Мохито с ромом классический/клубничный",
+            "weight": 400,
+            "price": 600,
+            "image": "img/drinks/лимонады/мохито.png",
+            "category": "img/drinks/заголовки/коктейли.svg",
+            "layout": "no_description",
+            "isNew": true
+        },
+        {
             "id": 5,
             "name": "Лавандовая Лили",
             "weight": 300,
@@ -184,16 +194,6 @@
             "image": "img/drinks/коктейли/клюквенный_лонг_айленд.png",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description"
-        },
-        {
-            "id": 15,
-            "name": "Мохито с ромом классический/клубничный",
-            "weight": 400,
-            "price": 600,
-            "image": "img/drinks/лимонады/мохито.png",
-            "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "no_description",
-            "isNew": true
         },
         {
             "id": 15,
@@ -442,8 +442,7 @@
             "weight": 500,
             "price": 250,
             "category": "img/drinks/заголовки/напитки.svg",
-            "layout": "no_description",
-            "isNew": true
+            "layout": "no_description"
         },
         {
             "id": 38,
