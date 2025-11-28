@@ -257,11 +257,19 @@
             "category": "img/food/заголовки/фритюр.png",
             "layout": "no_description"
         },
-
+        {
+            "id": 17,
+            "name": "Чизкейк дубайский шоколад",
+            "price": 450,
+            "image": "./img/food/десерты/чизкейк_дубайский_шоколад.png",
+            "category": "img/food/заголовки/десерты.png",
+            "layout": "title_and_price",
+            "isNew": true
+        },
         {
             "id": 17,
             "name": "Медовик",
-            "price": 400,
+            "price": 450,
             "image": "./img/food/десерты/медовик.png",
             "category": "img/food/заголовки/десерты.png",
             "layout": "title_and_price"
@@ -269,23 +277,15 @@
         {
             "id": 18,
             "name": "Наполеон",
-            "price": 400,
+            "price": 450,
             "image": "./img/food/десерты/наполеон.png",
-            "category": "img/food/заголовки/десерты.png",
-            "layout": "title_and_price"
-        },
-        {
-            "id": 19,
-            "name": "3 шоколада",
-            "price": 400,
-            "image": "./img/food/десерты/3_шоколада.png",
             "category": "img/food/заголовки/десерты.png",
             "layout": "title_and_price"
         },
         {
             "id": 20,
             "name": "Чизкейк шоколад",
-            "price": 400,
+            "price": 450,
             "image": "./img/food/десерты/чизкейк_шоколад.png",
             "category": "img/food/заголовки/десерты.png",
             "layout": "title_and_price"
@@ -293,7 +293,7 @@
         {
             "id": 21,
             "name": "Чизкейк классик",
-            "price": 400,
+            "price": 450,
             "image": "./img/food/десерты/чизкейк_класик.png",
             "category": "img/food/заголовки/десерты.png",
             "layout": "title_and_price"
