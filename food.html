@@ -183,11 +183,18 @@
                         break;
                         
                         case "title_and_price":
+                            if (dish.isNew) {
+                                newBadgeHtml = `<img src="./img/new.png" class="new-badge" alt="Новое">`;
+                            }       
+                            else{
+                                newBadgeHtml = `<div style="margin: 0; padding: 0;"></div>`
+                            }
                             menuContainer.innerHTML += `
                                 <div style="margin-bottom: 27px;">
                                     <div class="row justify-content-center">
                                         <div class="col-md-8 col-lg-6">
                                             <div class="position-relative" >
+                                                ${newBadgeHtml}
                                                 <img src="${dish.image}" class="card-img-top rounded-3" alt="${dish.name}">
                 
                                                 <div class="blok-menu">
