@@ -6,8 +6,8 @@
             "description": "Бастурма, суджук, московская колбаса, маринованные корнишоны, гренки чесночные, помидор черри, аджика, хрен",
             "weight": 250,
             "price": 1000,
-            "image": "./img/food/закуски/мясная нарезка.png",
-            "category": "img/food/заголовки/закуски.png",
+            "image": "./img/food/нарезки/мясная нарезка.png",
+            "category": "img/food/заголовки/нарезки.svg",
             "layout": "description"
         },
         {
@@ -16,26 +16,17 @@
             "description": "Пармезан, сыр с голубой плеснью, камамбер, голубика, орехи, яблоко/киви, апельсин, виноград",
             "weight": 250,
             "price": 1100,
-            "image": "./img/food/закуски/сырная нарезка.png",
-            "category": "img/food/заголовки/закуски.png",
+            "image": "./img/food/нарезки/сырная нарезка.png",
+            "category": "img/food/заголовки/нарезки.svg",
             "layout": "description"
         },
         {
             "id": 2,
-            "name": "фисташки",
-            "description": "Пармезан, сыр с голубой плеснью, камамбер, голубика, орехи, яблоко/киви, апельсин, виноград",
-            "weight": 100,
-            "price": 350,
-            "category": "img/food/заголовки/закуски.png",
-            "layout": "no_description"
-        },
-        {
-            "id": 2,
-            "name": "Начос",
-            "description": "Пармезан, сыр с голубой плеснью, камамбер, голубика, орехи, яблоко/киви, апельсин, виноград",
-            "weight": 80,
-            "price": 400,
-            "category": "img/food/заголовки/закуски.png",
+            "name": "Паста курица-грибы",
+            "description": "фетучини, филе куриной грудки, шампиньоны, сливки, пармезан, черри",
+            "weight": 280,
+            "price": 670,
+            "category": "img/food/заголовки/пасты.svg",
             "layout": "no_description",
             "isNew": true
         },
@@ -192,24 +183,33 @@
             "category": "img/food/заголовки/салаты.png",
             "layout": "description"
         },   
-
         {
             "id": 13,
-            "name": "бургер",
-            "description": "Курино-говяжья котлета, сыр чеддер, корнишоны, помидор, лист салата, лук карамелизованный, фирменный соус. Подается с картофелем фри и соусом на выбор",
-            "weight": 540,
-            "price": 700,
-            "image": "./img/food/фритюр/бургер.png",
-            "category": "img/food/заголовки/фритюр.png",
-            "layout": "description"
-        },    
+            "name": "Картофель по-деревенски",
+            "weight": 180,
+            "price": 250,
+            "category": "img/food/заголовки/закуски.png",
+            "layout": "no_description",
+            "isNew": true
+        },
+        {
+            "id": 13,
+            "name": "Овощи гриль",
+            "description": "баклажан, кабачок, болгарский перец, помидор, шампиньоны, черри, лук красный, лист салата, бальзамический соус",
+            "weight": 280,
+            "price": 390,
+            "category": "img/food/заголовки/закуски.png",
+            "layout": "no_description",
+            "isNew": true
+        },
+    
         {
             "id": 13,
             "name": "Картофель фри",
             "weight": 180,
             "price": 250,
-            "image": "./img/food/фритюр/картофель_фри.png",
-            "category": "img/food/заголовки/фритюр.png",
+            "image": "./img/food/закуски/картофель_фри.png",
+            "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
         },
         {
@@ -217,8 +217,8 @@
             "name": "Сырные палочки",
             "weight": 150,
             "price": 400,
-            "image": "./img/food/фритюр/сырные_палочки.png",
-            "category": "img/food/заголовки/фритюр.png",
+            "image": "./img/food/закуски/сырные_палочки.png",
+            "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
         },
         {
@@ -226,8 +226,8 @@
             "name": "Стрипсы куриные",
             "weight": 180,
             "price": 450,
-            "image": "./img/food/фритюр/стрипсы_куринные.png",
-            "category": "img/food/заголовки/фритюр.png",
+            "image": "./img/food/закуски/стрипсы_куринные.png",
+            "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
         },
         {
@@ -235,8 +235,8 @@
             "name": "Креветки темпура",
             "weight": 150,
             "price": 550,
-            "image": "./img/food/фритюр/криветка_темпура.png",
-            "category": "img/food/заголовки/фритюр.png",
+            "image": "./img/food/закуски/криветка_темпура.png",
+            "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
         },
                 {
@@ -244,8 +244,8 @@
             "name": "крылья баффало",
             "weight": 300,
             "price": 500,
-            "image": "./img/food/фритюр/крылья_баффало.png",
-            "category": "img/food/заголовки/фритюр.png",
+            "image": "./img/food/закуски/крылья_баффало.png",
+            "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
         },
         {
@@ -253,9 +253,38 @@
             "name": "гренки",
             "weight": 200,
             "price": 200,
-            "image": "./img/food/фритюр/гренки.png",
-            "category": "img/food/заголовки/фритюр.png",
+            "image": "./img/food/закуски/гренки.png",
+            "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
+        },
+        {
+            "id": 2,
+            "name": "фисташки",
+            "description": "Пармезан, сыр с голубой плеснью, камамбер, голубика, орехи, яблоко/киви, апельсин, виноград",
+            "weight": 100,
+            "price": 350,
+            "category": "img/food/заголовки/закуски.png",
+            "layout": "no_description"
+        },
+        {
+            "id": 2,
+            "name": "Начос",
+            "description": "Пармезан, сыр с голубой плеснью, камамбер, голубика, орехи, яблоко/киви, апельсин, виноград",
+            "weight": 80,
+            "price": 400,
+            "category": "img/food/заголовки/закуски.png",
+            "layout": "no_description",
+            "isNew": true
+        },
+        {
+            "id": 13,
+            "name": "бургер",
+            "description": "Курино-говяжья котлета, сыр чеддер, корнишоны, помидор, лист салата, лук карамелизованный, фирменный соус. Подается с картофелем фри и соусом на выбор",
+            "weight": 540,
+            "price": 700,
+            "image": "./img/food/бергеры/бургер.png",
+            "category": "img/food/заголовки/бургеры.svg",
+            "layout": "description"
         },
         {
             "id": 17,
