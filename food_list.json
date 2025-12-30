@@ -26,6 +26,7 @@
             "description": "фетучини, филе куриной грудки, шампиньоны, сливки, пармезан, черри",
             "weight": 280,
             "price": 670,
+            "image": "./img/food/пасты/паста_с_грибами.svg",
             "category": "img/food/заголовки/пасты.svg",
             "layout": "no_description",
             "isNew": true
@@ -189,6 +190,7 @@
             "weight": 180,
             "price": 250,
             "category": "img/food/заголовки/закуски.png",
+            "image": "./img/food/закуски/картофель_по_деревенски.svg",
             "layout": "no_description",
             "isNew": true
         },
