@@ -29,7 +29,7 @@
             "image": "./img/food/пасты/паста_с_грибами.png",
             "category": "img/food/заголовки/пасты.svg",
             "layout": "no_description",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 2,
@@ -131,7 +131,7 @@
             "image": "./img/food/салаты/Салат_с_креветками_и_сыром_бри.jpg",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 12,
@@ -142,7 +142,7 @@
             "image": "./img/food/салаты/Салат_гриль_телятина_баклажаны.jpg",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 9,
@@ -192,7 +192,7 @@
             "category": "img/food/заголовки/закуски.png",
             "image": "./img/food/закуски/картофель_по_деревенски.png",
             "layout": "no_description",
-            "isNew": true
+            "isNew": false
         },    
         {
             "id": 13,
@@ -265,7 +265,7 @@
             "price": 400,
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 13,
@@ -284,7 +284,7 @@
             "image": "./img/food/десерты/чизкейк_дубайский_шоколад.png",
             "category": "img/food/заголовки/десерты.png",
             "layout": "title_and_price",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 17,
