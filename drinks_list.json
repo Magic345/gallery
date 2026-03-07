@@ -405,7 +405,7 @@
             "name": "тайский",
             "weight": 1000,
             "price": 550,
-            "image": "img/drinks/авторский/тайский.JPG",
+            "image": "img/drinks/авторский/тайский.jpg",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description",
             "isNew": true
@@ -433,7 +433,7 @@
             "name": "витаминный",
             "weight": 1000,
             "price": 550,
-            "image": "img/drinks/авторский/витаминный.JPG",
+            "image": "img/drinks/авторский/витаминный.jpg",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description"
         },
