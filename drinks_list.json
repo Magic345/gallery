@@ -69,6 +69,7 @@
             "name": "тропическая наглость",
             "weight": 300,
             "price": 650,
+            "image": "img/drinks/коктейли/тропическая_наглость.JPG",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description",
             "isNew": true
@@ -78,6 +79,7 @@
             "name": "spring vibe",
             "weight": 300,
             "price": 650,
+            "image": "img/drinks/коктейли/spring_vibe.JPG",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description",
             "isNew": true
@@ -403,6 +405,7 @@
             "name": "тайский",
             "weight": 1000,
             "price": 550,
+            "image": "img/drinks/авторский/тайский.JPG",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description",
             "isNew": true
@@ -430,7 +433,7 @@
             "name": "витаминный",
             "weight": 1000,
             "price": 550,
-            "image": "img/drinks/авторский/имбирный.png",
+            "image": "img/drinks/авторский/витаминный.JPG",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description"
         },
