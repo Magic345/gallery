@@ -5,8 +5,8 @@
             "name": "Манго маракуйя",
             "weight1": 400,
             "weight2": 1000,
-            "price1": 350,
-            "price2": 700,
+            "price1": 400,
+            "price2": 800,
             "image": "img/drinks/лимонады/манго_маракуйя.png",
             "category": "img/drinks/заголовки/лимонады.svg",
             "layout": "two_weight_and_price"
@@ -16,8 +16,8 @@
             "name": "Мохито классический/клубничный",
             "weight1": 400,
             "weight2": 1000,
-            "price1": 350,
-            "price2": 700,
+            "price1": 400,
+            "price2": 800,
             "image": "img/drinks/лимонады/мохито.png",
             "category": "img/drinks/заголовки/лимонады.svg",
             "layout": "two_weight_and_price"
@@ -27,8 +27,8 @@
             "name": "Цитрусовый",
             "weight1": 400,
             "weight2": 1000,
-            "price1": 350,
-            "price2": 700,
+            "price1": 400,
+            "price2": 800,
             "image": "img/drinks/лимонады/цитрусовый.png",
             "category": "img/drinks/заголовки/лимонады.svg",
             "layout": "two_weight_and_price"
@@ -37,7 +37,7 @@
             "id": 4,
             "name": "Пина колада",
             "weight": 400,
-            "price": 350,
+            "price": 400,
             "image": "img/drinks/лимонады/пина_колада.png",
             "category": "img/drinks/заголовки/лимонады.svg",
             "layout": "no_description"
@@ -47,8 +47,8 @@
             "name": "Ягодный",
             "weight1": 400,
             "weight2": 1000,
-            "price1": 350,
-            "price2": 700,
+            "price1": 400,
+            "price2": 800,
             "image": "img/drinks/лимонады/ягодный.png",
             "category": "img/drinks/заголовки/лимонады.svg",
             "layout": "two_weight_and_price"
@@ -58,8 +58,8 @@
             "name": "огуречный",
             "weight1": 400,
             "weight2": 1000,
-            "price1": 350,
-            "price2": 700,
+            "price1": 400,
+            "price2": 800,
             "image": "img/drinks/лимонады/огуречный.png",
             "category": "img/drinks/заголовки/лимонады.svg",
             "layout": "two_weight_and_price"
@@ -106,7 +106,7 @@
             "id": 15,
             "name": "Киви-ром",
             "weight": 400,
-            "price": 550,
+            "price": 600,
             "image": "img/drinks/коктейли/Киви_ром.JPG",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description"
@@ -475,7 +475,7 @@
             "id": 39,
             "name": "фанта",
             "weight": 330,
-            "price": 220,
+            "price": 250,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description"
         },
@@ -483,7 +483,7 @@
             "id": 40,
             "name": "спрайт",
             "weight": 330,
-            "price": 220,
+            "price": 250,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description"
         },
@@ -491,7 +491,7 @@
             "id": 41,
             "name": "кола",
             "weight": 330,
-            "price": 220,
+            "price": 250,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description"
         },
@@ -508,8 +508,8 @@
             "name": "сок (в ассортименте)",
             "weight1": 200,
             "weight2": 1000,
-            "price1": 220,
-            "price2": 450,
+            "price1": 250,
+            "price2": 500,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "two_weight_and_price"
         },
@@ -517,7 +517,7 @@
             "id": 45,
             "name": "Stella artois",
             "weight": 500,
-            "price": 300,
+            "price": 350,
             "category": "img/drinks/заголовки/пиво.svg",
             "layout": "no_description"
         },
@@ -533,7 +533,7 @@
             "id": 47,
             "name": "Corona extra",
             "weight": 330,
-            "price": 400,
+            "price": 450,
             "category": "img/drinks/заголовки/пиво.svg",
             "layout": "no_description"
         },
@@ -573,7 +573,7 @@
             "id": 52,
             "name": "Царская (оригинальная)",
             "weight": 40,
-            "price": 200,
+            "price": 250,
             "category": "img/drinks/заголовки/водка.svg",
             "layout": "no_description"
         },
@@ -581,7 +581,7 @@
             "id": 53,
             "name": "Царская (золотая)",
             "weight": 40,
-            "price": 220,
+            "price": 270,
             "category": "img/drinks/заголовки/водка.svg",
             "layout": "no_description"
         },
@@ -589,7 +589,7 @@
             "id": 54,
             "name": "Белуга",
             "weight": 40,
-            "price": 300,
+            "price": 350,
             "category": "img/drinks/заголовки/водка.svg",
             "layout": "no_description"
         },
@@ -597,49 +597,49 @@
             "id": 55,
             "name": "Чистые Росы",
             "weight": 40,
-            "price": 330,
+            "price": 380,
             "category": "img/drinks/заголовки/водка.svg",
             "layout": "no_description"
         },
         {
             "id": 56,
             "name": "Абрау-Дюрсо бел. п/сл",
-            "price": 1500,
+            "price": 1700,
             "category": "img/drinks/заголовки/шампанское.svg",
             "layout": "no_description"
         },
         {
             "id": 57,
             "name": "Абрау-Дюрсо бел. п/сух",
-            "price": 1500,
+            "price": 1700,
             "category": "img/drinks/заголовки/шампанское.svg",
             "layout": "no_description"
         },
         {
             "id": 58,
             "name": "Абрау-Дюрсо брют",
-            "price": 1500,
+            "price": 1700,
             "category": "img/drinks/заголовки/шампанское.svg",
             "layout": "no_description"
         },
         {
             "id": 59,
             "name": "Лев Голицынъ Бел. п/сл",
-            "price": 1500,
+            "price": 1700,
             "category": "img/drinks/заголовки/шампанское.svg",
             "layout": "no_description"
         },
         {
             "id": 60,
             "name": "Лев Голицынъ Бел. п/сух",
-            "price": 1500,
+            "price": 1700,
             "category": "img/drinks/заголовки/шампанское.svg",
             "layout": "no_description"
         },
         {
             "id": 61,
             "name": "Лев Голицынъ Брют",
-            "price": 1500,
+            "price": 1700,
             "category": "img/drinks/заголовки/шампанское.svg",
             "layout": "no_description"
         },
@@ -717,7 +717,7 @@
             "id": 67,
             "name": "Старый Кахети (***)",
             "weight": 40,
-            "price": 250,
+            "price": 300,
             "category": "img/drinks/заголовки/коньяк.svg",
             "layout": "no_description"
         },
@@ -749,7 +749,7 @@
             "id": 71,
             "name": "Jameson",
             "weight": 40,
-            "price": 500,
+            "price": 550,
             "category": "img/drinks/заголовки/виски.svg",
             "layout": "no_description"
         },
