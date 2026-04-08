@@ -25,11 +25,11 @@
             "name": "Паста курица-грибы",
             "description": "фетучини, филе куриной грудки, шампиньоны, сливки, пармезан, черри",
             "weight": 280,
-            "price": 670,
+            "price": 700,
             "image": "./img/food/пасты/паста_с_грибами.png",
             "category": "img/food/заголовки/пасты.svg",
             "layout": "no_description",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 2,
@@ -56,7 +56,7 @@
             "name": "карбонара",
             "description": "Фетучини, бекон, сливки, желток, пармезан",
             "weight": 270,
-            "price": 650,
+            "price": 700,
             "image": "./img/food/пасты/карбонара.png",
             "category": "img/food/заголовки/пасты.svg",
             "layout": "description"
@@ -131,25 +131,25 @@
             "image": "./img/food/салаты/Салат_с_креветками_и_сыром_бри.jpg",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 12,
             "name": "Салат гриль с телятиной и баклажанами",
             "description": "Микс салата, вырезка из телятины, хрустящий баклажан, болгарский перец, черри, имбирь, кунжут, соус ауберджин",
             "weight": 200,
-            "price": 690,
+            "price": 750,
             "image": "./img/food/салаты/Салат_гриль_телятина_баклажаны.jpg",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 9,
             "name": "Салат Цезарь",
             "description": "Микс салата, куриная грудка, черри, крутоны, сыр пармезан, перепелиные яйца, соус цезарь",
             "weight": 180,
-            "price": 600,
+            "price": 650,
             "image": "./img/food/салаты/цезарь.png",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description"
@@ -192,7 +192,7 @@
             "category": "img/food/заголовки/закуски.png",
             "image": "./img/food/закуски/картофель_по_деревенски.png",
             "layout": "no_description",
-            "isNew": true
+            "isNew": false
         },    
         {
             "id": 13,
@@ -225,7 +225,7 @@
             "id": 16,
             "name": "Креветки темпура",
             "weight": 150,
-            "price": 550,
+            "price": 600,
             "image": "./img/food/закуски/криветка_темпура.png",
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
@@ -258,16 +258,6 @@
             "layout": "no_description"
         },
         {
-            "id": 2,
-            "name": "Начос",
-            "description": "Пармезан, сыр с голубой плеснью, камамбер, голубика, орехи, яблоко/киви, апельсин, виноград",
-            "weight": 80,
-            "price": 400,
-            "category": "img/food/заголовки/закуски.png",
-            "layout": "no_description",
-            "isNew": true
-        },
-        {
             "id": 13,
             "name": "бургер",
             "description": "Курино-говяжья котлета, сыр чеддер, корнишоны, помидор, лист салата, лук карамелизованный, фирменный соус. Подается с картофелем фри и соусом на выбор",
@@ -284,7 +274,7 @@
             "image": "./img/food/десерты/чизкейк_дубайский_шоколад.png",
             "category": "img/food/заголовки/десерты.png",
             "layout": "title_and_price",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 17,
