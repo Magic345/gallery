@@ -1,6 +1,18 @@
 {
     "drinks": [
         {
+            "id": 38,
+            "name": "киви-лимон",
+            "weight1": 400,
+            "weight2": 1000,
+            "price1": 400,
+            "price2": 800,
+            "image": "img/drinks/коктейли/киви-лимон.jpg",
+            "category": "img/drinks/заголовки/лимонады.svg",
+            "layout": "two_weight_and_price",
+            "isNew": true
+        },
+        {
             "id": 1,
             "name": "Манго маракуйя",
             "weight1": 400,
@@ -72,18 +84,6 @@
             "image": "img/drinks/коктейли/basil-smash.jpg",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description",
-            "isNew": true
-        },
-        {
-            "id": 38,
-            "name": "киви-лимон",
-            "weight1": 400,
-            "weight2": 1000,
-            "price1": 400,
-            "price2": 800,
-            "image": "img/drinks/коктейли/киви-лимон.jpg",
-            "category": "img/drinks/заголовки/коктейли.svg",
-            "layout": "two_weight_and_price",
             "isNew": true
         },
         {
