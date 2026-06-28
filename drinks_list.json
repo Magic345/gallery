@@ -430,7 +430,7 @@
             "image": "img/drinks/авторский/тайский.jpg",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description",
-            "isNew": true
+            "isNew": false
         },
         {
             "id": 34,
