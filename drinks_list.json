@@ -72,7 +72,7 @@
             "image": "img/drinks/коктейли/basil-smash.jpg",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "no_description",
-            "isNew": false
+            "isNew": true
         },
         {
             "id": 38,
@@ -84,7 +84,7 @@
             "image": "img/drinks/коктейли/киви-лимон.jpg",
             "category": "img/drinks/заголовки/коктейли.svg",
             "layout": "two_weight_and_price",
-            "isNew": false
+            "isNew": true
         },
         {
             "id": 38,

@@ -269,6 +269,16 @@
         },
         {
             "id": 17,
+            "name": "брусника с кедровыми орехами (сгущенка, мёд)",
+            "weight": 125,
+            "price": 600,
+            "image": "./img/food/десерты/десерт.jpg",
+            "category": "img/food/заголовки/десерты.png",
+            "layout": "no_description",
+            "isNew": true
+        },
+        {
+            "id": 17,
             "name": "Дубайский чизкейк",
             "price": 450,
             "image": "./img/food/десерты/чизкейк_дубайский_шоколад.png",
