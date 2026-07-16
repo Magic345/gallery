@@ -25,7 +25,7 @@
             "name": "Паста курица-грибы",
             "description": "фетучини, филе куриной грудки, шампиньоны, сливки, пармезан, черри",
             "weight": 280,
-            "price": 700,
+            "price": 750,
             "image": "./img/food/пасты/паста_с_грибами.png",
             "category": "img/food/заголовки/пасты.svg",
             "layout": "no_description",
@@ -36,7 +36,7 @@
             "name": "al mare",
             "description": "Фетучини, креветки, черри, пармезан, соус биск/ромеско",
             "weight": 270,
-            "price": 800,
+            "price": 850,
             "image": "./img/food/пасты/al_mare.png",
             "category": "img/food/заголовки/пасты.svg",
             "layout": "description"
@@ -46,7 +46,7 @@
             "name": "bruno",
             "description": "Фетучини, томленная говядина, зелень, соус пилати/тайский, пармезан",
             "weight": 270,
-            "price": 700,
+            "price": 750,
             "image": "./img/food/пасты/bruno.png",
             "category": "img/food/заголовки/пасты.svg",
             "layout": "description"
@@ -56,7 +56,7 @@
             "name": "карбонара",
             "description": "Фетучини, бекон, сливки, желток, пармезан",
             "weight": 270,
-            "price": 700,
+            "price": 750,
             "image": "./img/food/пасты/карбонара.png",
             "category": "img/food/заголовки/пасты.svg",
             "layout": "description"
@@ -67,7 +67,7 @@
             "name": "пепперони  🌶️",
             "description": "Сыр Чеддер, моцарелла, пепперони, соус Пилатти",
             "weight": 470,
-            "price": 700,
+            "price": 750,
             "image": "./img/food/пицца/пепперони.png",
             "category": "img/food/заголовки/пицца.png",
             "layout": "description"
@@ -77,7 +77,7 @@
             "name": "4 сыра",
             "description": "Сыр чеддер, моцарелла, горгондзола пармезан, сливочный соус",
             "weight": 500,
-            "price": 700,
+            "price": 750,
             "image": "./img/food/пицца/4_сыра.png",
             "category": "img/food/заголовки/пицца.png",
             "layout": "description"
@@ -87,7 +87,7 @@
             "name": "курица-грибы",
             "description": "Сливочный соус, сыр чеддер, моцарелла куриная грудка, грибы шампиньоны, пармезан",
             "weight": 550,
-            "price": 750,
+            "price": 800,
             "image": "./img/food/пицца/курица_грибы.png",
             "category": "img/food/заголовки/пицца.png",
             "layout": "description"
@@ -97,7 +97,7 @@
             "name": "с морепродуктами",
             "description": "Сыр Чеддер, моцарелла, кальмар, креветка, мидии, слабосоленный лосось сливочный соус, пармезан",
             "weight": 500,
-            "price": 800,
+            "price": 850,
             "image": "./img/food/пицца/с_морепродуктами.png",
             "category": "img/food/заголовки/пицца.png",
             "layout": "description"
@@ -107,7 +107,7 @@
             "name": "мексиканская 🌶️",
             "description": "Сыр Чеддер, моцарелла, пилати основа, охотничие колбаски, пепперони, халапеньо + болгарский + чили перец",
             "weight": 550,
-            "price": 750,
+            "price": 800,
             "image": "./img/food/пицца/мексиканская.png",
             "category": "img/food/заголовки/пицца.png",
             "layout": "description"
@@ -117,7 +117,7 @@
             "name": "маргарита",
             "description": "Сыр Чеддер, моцарелла, пилати основа, арома масло, помидор, базилик / шпинат",
             "weight": 400,
-            "price": 600,
+            "price": 650,
             "image": "./img/food/пицца/маргарита.png",
             "category": "img/food/заголовки/пицца.png",
             "layout": "description"
@@ -127,7 +127,7 @@
             "name": "Салат с жаренными креветками и сыром бри",
             "description": "Микс салата, креветки, сыр бри, авокадо, черри, апельсин, соус свит чили",
             "weight": 180,
-            "price": 750,
+            "price": 800,
             "image": "./img/food/салаты/Салат_с_креветками_и_сыром_бри.jpg",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description",
@@ -138,7 +138,7 @@
             "name": "Салат гриль с телятиной и баклажанами",
             "description": "Микс салата, вырезка из телятины, хрустящий баклажан, болгарский перец, черри, имбирь, кунжут, соус ауберджин",
             "weight": 200,
-            "price": 750,
+            "price": 800,
             "image": "./img/food/салаты/Салат_гриль_телятина_баклажаны.jpg",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description",
@@ -149,7 +149,7 @@
             "name": "Салат Цезарь",
             "description": "Микс салата, куриная грудка, черри, крутоны, сыр пармезан, перепелиные яйца, соус цезарь",
             "weight": 180,
-            "price": 650,
+            "price": 700,
             "image": "./img/food/салаты/цезарь.png",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description"
@@ -159,7 +159,7 @@
             "name": "Салат с морепродуктами с пикантным сливочным соусом 🌶️",
             "description": "Микс салата, черри, сегменты апельсина, кальмар, креветка, мидии, слабосоленая форель",
             "weight": 210,
-            "price": 800,
+            "price": 850,
             "image": "./img/food/салаты/салат_с_морепродуктами.png",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description"
@@ -169,7 +169,7 @@
             "name": "Салат с куриной грудкой и шампиньонами в сливочном соусе",
             "description": "Микс салата, черри, грибы, куриная грудка",
             "weight": 180,
-            "price": 600,
+            "price": 650,
             "image": "./img/food/салаты/салат_с_куринной_грудкой.png",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description"
@@ -179,7 +179,7 @@
             "name": "Овощной салат с сыром Фета",
             "description": "Помидор, огурец, перец болгарский, лук красный, оливковое масло, специи, микс салата",
             "weight": 220,
-            "price": 500,
+            "price": 550,
             "image": "./img/food/салаты/овощной_салат_с_сыром.png",
             "category": "img/food/заголовки/салаты.png",
             "layout": "description"
@@ -188,7 +188,7 @@
             "id": 13,
             "name": "Картофель по-деревенски",
             "weight": 180,
-            "price": 250,
+            "price": 300,
             "category": "img/food/заголовки/закуски.png",
             "image": "./img/food/закуски/картофель_по_деревенски.png",
             "layout": "no_description",
@@ -198,7 +198,7 @@
             "id": 13,
             "name": "Картофель фри",
             "weight": 180,
-            "price": 250,
+            "price": 300,
             "image": "./img/food/закуски/картофель_фри.png",
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
@@ -207,7 +207,7 @@
             "id": 14,
             "name": "Сырные палочки",
             "weight": 150,
-            "price": 400,
+            "price": 450,
             "image": "./img/food/закуски/сырные_палочки.png",
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
@@ -216,7 +216,7 @@
             "id": 15,
             "name": "Стрипсы куриные",
             "weight": 180,
-            "price": 450,
+            "price": 500,
             "image": "./img/food/закуски/стрипсы_куринные.png",
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
@@ -225,7 +225,7 @@
             "id": 16,
             "name": "Креветки темпура",
             "weight": 150,
-            "price": 600,
+            "price": 650,
             "image": "./img/food/закуски/криветка_темпура.png",
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
@@ -234,7 +234,7 @@
             "id": 16,
             "name": "крылья баффало",
             "weight": 300,
-            "price": 500,
+            "price": 550,
             "image": "./img/food/закуски/крылья_баффало.png",
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
@@ -243,7 +243,7 @@
             "id": 16,
             "name": "гренки",
             "weight": 200,
-            "price": 200,
+            "price": 250,
             "image": "./img/food/закуски/гренки.png",
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
@@ -253,7 +253,7 @@
             "name": "фисташки",
             "description": "Пармезан, сыр с голубой плеснью, камамбер, голубика, орехи, яблоко/киви, апельсин, виноград",
             "weight": 100,
-            "price": 350,
+            "price": 400,
             "category": "img/food/заголовки/закуски.png",
             "layout": "no_description"
         },
@@ -262,7 +262,7 @@
             "name": "бургер",
             "description": "Курино-говяжья котлета, сыр чеддер, корнишоны, помидор, лист салата, лук карамелизованный, фирменный соус. Подается с картофелем фри и соусом на выбор",
             "weight": 540,
-            "price": 700,
+            "price": 750,
             "image": "./img/food/бургеры/бургер.png",
             "category": "img/food/заголовки/бургеры.svg",
             "layout": "description"
@@ -320,9 +320,9 @@
         },
         {
             "id": 22,
-            "name": "Мороженное кофейное / пломбир",
+            "name": "Мороженное кофейное / пломбир (добавки на выбор)",
             "weight": 200,
-            "price": 300,
+            "price": 400,
             "image": "./img/food/десерты/мороженное.png",
             "category": "img/food/заголовки/десерты.png",
             "layout": "no_description"

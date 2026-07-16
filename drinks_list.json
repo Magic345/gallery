@@ -481,7 +481,7 @@
             "id": 38,
             "name": "боржоми",
             "weight": 500,
-            "price": 250,
+            "price": 300,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description"
         },
@@ -489,7 +489,7 @@
             "id": 38,
             "name": "Вода",
             "weight": 500,
-            "price": 150,
+            "price": 200,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description"
         },
@@ -521,7 +521,7 @@
             "id": 43,
             "name": "red bull",
             "weight": 250,
-            "price": 300,
+            "price": 350,
             "category": "img/drinks/заголовки/напитки.svg",
             "layout": "no_description"
         },
