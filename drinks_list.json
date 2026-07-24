@@ -427,7 +427,7 @@
             "name": "тропический",
             "weight": 1000,
             "price": 550,
-            "image": "img/drinks/авторский/тропический.jpg",
+            "image": "img/drinks/авторский/торопический.jpg",
             "category": "img/drinks/заголовки/авторский.svg",
             "layout": "no_description",
             "isNew": true
