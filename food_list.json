@@ -287,22 +287,6 @@
             "isNew": false
         },
         {
-            "id": 17,
-            "name": "Медовик",
-            "price": 450,
-            "image": "./img/food/десерты/медовик.png",
-            "category": "img/food/заголовки/десерты.png",
-            "layout": "title_and_price"
-        },
-        {
-            "id": 18,
-            "name": "Наполеон",
-            "price": 450,
-            "image": "./img/food/десерты/наполеон.png",
-            "category": "img/food/заголовки/десерты.png",
-            "layout": "title_and_price"
-        },
-        {
             "id": 20,
             "name": "Чизкейк шоколад",
             "price": 450,
@@ -323,7 +307,7 @@
             "name": "Мороженное шоколадное / пломбир (добавки на выбор)",
             "weight": 200,
             "price": 400,
-            "image": "./img/food/десерты/мороженное.png",
+            "image": "./img/food/десерты/мороженное.jpg",
             "category": "img/food/заголовки/десерты.png",
             "layout": "no_description"
         }
